@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @muneebzafarqureshi and I am an ELECTRICAL ENGINEER / PYTHON DEVELOPER and fond of learning programming stuff.
+- 👋 Hi, I’m @muneebzafarqureshi a CERTIFIED ARTIFICIAL INTELLIGENCE (AI) DEVELOPER | PYTHON DEVELOPER | DATA ANALYST and fond of learning new stuff.
 - 👀 I’m interested in A.I, Data Science, Machine Learning, Front-End-Development and Back-End-Development.
-- 🌱 I’m currently learning Deep Learning, React.js, Data Analysis and Visualization.
-- 💞️ I’m looking to collaborate on Data Science and A.I.
+- 🌱 I’m currently learning Advanced REST API development, Advnaced Django and React.js.
+- 💞️ I’m looking to collaborate on Web Development, Data Science and Artificial Intelligence.
 - 📫 How to reach me, hmmm, muneebzafar2@yahoo.com.
 
 <!---
